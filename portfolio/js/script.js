@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Initialize Typed.js
     if (document.querySelector('.typed')) {
         const typed = new Typed('.typed', {
-            strings: ["web applications","digital experiences","responsive websites","youTube tutorials","full-stack solutions"],
+            strings: ["web applications","digital experiences","responsive websites","youtube tutorials","full-stack solutions"],
             typeSpeed: 50,
             backSpeed: 30,
             loop: true,
